@@ -1,0 +1,15 @@
+C:\Users\Meu Computador\Documents\prog\CSharp\ExemploClasseCartao\ExemploClasseCartao\bin\Debug\net6.0\ExemploClasseCartao.exe
+C:\Users\Meu Computador\Documents\prog\CSharp\ExemploClasseCartao\ExemploClasseCartao\bin\Debug\net6.0\ExemploClasseCartao.deps.json
+C:\Users\Meu Computador\Documents\prog\CSharp\ExemploClasseCartao\ExemploClasseCartao\bin\Debug\net6.0\ExemploClasseCartao.runtimeconfig.json
+C:\Users\Meu Computador\Documents\prog\CSharp\ExemploClasseCartao\ExemploClasseCartao\bin\Debug\net6.0\ExemploClasseCartao.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\ExemploClasseCartao\ExemploClasseCartao\bin\Debug\net6.0\ExemploClasseCartao.pdb
+C:\Users\Meu Computador\Documents\prog\CSharp\ExemploClasseCartao\ExemploClasseCartao\obj\Debug\net6.0\ExemploClasseCartao.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\ExemploClasseCartao\ExemploClasseCartao\obj\Debug\net6.0\ExemploClasseCartao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Documents\prog\CSharp\ExemploClasseCartao\ExemploClasseCartao\obj\Debug\net6.0\ExemploClasseCartao.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\ExemploClasseCartao\ExemploClasseCartao\obj\Debug\net6.0\ExemploClasseCartao.AssemblyInfo.cs
+C:\Users\Meu Computador\Documents\prog\CSharp\ExemploClasseCartao\ExemploClasseCartao\obj\Debug\net6.0\ExemploClasseCartao.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\ExemploClasseCartao\ExemploClasseCartao\obj\Debug\net6.0\ExemploClasseCartao.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\ExemploClasseCartao\ExemploClasseCartao\obj\Debug\net6.0\refint\ExemploClasseCartao.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\ExemploClasseCartao\ExemploClasseCartao\obj\Debug\net6.0\ExemploClasseCartao.pdb
+C:\Users\Meu Computador\Documents\prog\CSharp\ExemploClasseCartao\ExemploClasseCartao\obj\Debug\net6.0\ExemploClasseCartao.genruntimeconfig.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\ExemploClasseCartao\ExemploClasseCartao\obj\Debug\net6.0\ref\ExemploClasseCartao.dll

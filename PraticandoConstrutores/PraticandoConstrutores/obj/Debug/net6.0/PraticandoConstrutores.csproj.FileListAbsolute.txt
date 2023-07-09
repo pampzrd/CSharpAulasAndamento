@@ -1,0 +1,15 @@
+C:\Users\Meu Computador\Documents\prog\CSharp\PraticandoConstrutores\PraticandoConstrutores\obj\Debug\net6.0\PraticandoConstrutores.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\PraticandoConstrutores\PraticandoConstrutores\obj\Debug\net6.0\PraticandoConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Documents\prog\CSharp\PraticandoConstrutores\PraticandoConstrutores\obj\Debug\net6.0\PraticandoConstrutores.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\PraticandoConstrutores\PraticandoConstrutores\obj\Debug\net6.0\PraticandoConstrutores.AssemblyInfo.cs
+C:\Users\Meu Computador\Documents\prog\CSharp\PraticandoConstrutores\PraticandoConstrutores\obj\Debug\net6.0\PraticandoConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\PraticandoConstrutores\PraticandoConstrutores\bin\Debug\net6.0\PraticandoConstrutores.exe
+C:\Users\Meu Computador\Documents\prog\CSharp\PraticandoConstrutores\PraticandoConstrutores\bin\Debug\net6.0\PraticandoConstrutores.deps.json
+C:\Users\Meu Computador\Documents\prog\CSharp\PraticandoConstrutores\PraticandoConstrutores\bin\Debug\net6.0\PraticandoConstrutores.runtimeconfig.json
+C:\Users\Meu Computador\Documents\prog\CSharp\PraticandoConstrutores\PraticandoConstrutores\bin\Debug\net6.0\PraticandoConstrutores.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\PraticandoConstrutores\PraticandoConstrutores\bin\Debug\net6.0\PraticandoConstrutores.pdb
+C:\Users\Meu Computador\Documents\prog\CSharp\PraticandoConstrutores\PraticandoConstrutores\obj\Debug\net6.0\PraticandoConstrutores.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\PraticandoConstrutores\PraticandoConstrutores\obj\Debug\net6.0\refint\PraticandoConstrutores.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\PraticandoConstrutores\PraticandoConstrutores\obj\Debug\net6.0\PraticandoConstrutores.pdb
+C:\Users\Meu Computador\Documents\prog\CSharp\PraticandoConstrutores\PraticandoConstrutores\obj\Debug\net6.0\PraticandoConstrutores.genruntimeconfig.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\PraticandoConstrutores\PraticandoConstrutores\obj\Debug\net6.0\ref\PraticandoConstrutores.dll

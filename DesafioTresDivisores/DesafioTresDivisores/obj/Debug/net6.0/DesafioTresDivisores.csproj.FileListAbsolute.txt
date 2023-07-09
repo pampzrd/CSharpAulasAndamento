@@ -1,0 +1,15 @@
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioTresDivisores\DesafioTresDivisores\obj\Debug\net6.0\DesafioTresDivisores.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioTresDivisores\DesafioTresDivisores\obj\Debug\net6.0\DesafioTresDivisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioTresDivisores\DesafioTresDivisores\obj\Debug\net6.0\DesafioTresDivisores.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioTresDivisores\DesafioTresDivisores\obj\Debug\net6.0\DesafioTresDivisores.AssemblyInfo.cs
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioTresDivisores\DesafioTresDivisores\obj\Debug\net6.0\DesafioTresDivisores.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioTresDivisores\DesafioTresDivisores\bin\Debug\net6.0\DesafioTresDivisores.exe
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioTresDivisores\DesafioTresDivisores\bin\Debug\net6.0\DesafioTresDivisores.deps.json
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioTresDivisores\DesafioTresDivisores\bin\Debug\net6.0\DesafioTresDivisores.runtimeconfig.json
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioTresDivisores\DesafioTresDivisores\bin\Debug\net6.0\DesafioTresDivisores.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioTresDivisores\DesafioTresDivisores\bin\Debug\net6.0\DesafioTresDivisores.pdb
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioTresDivisores\DesafioTresDivisores\obj\Debug\net6.0\DesafioTresDivisores.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioTresDivisores\DesafioTresDivisores\obj\Debug\net6.0\refint\DesafioTresDivisores.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioTresDivisores\DesafioTresDivisores\obj\Debug\net6.0\DesafioTresDivisores.pdb
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioTresDivisores\DesafioTresDivisores\obj\Debug\net6.0\DesafioTresDivisores.genruntimeconfig.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioTresDivisores\DesafioTresDivisores\obj\Debug\net6.0\ref\DesafioTresDivisores.dll

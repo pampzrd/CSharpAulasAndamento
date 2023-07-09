@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTresDivisores", "DesafioTresDivisores.csproj", "{54BF2955-6FE6-446E-B6D9-E655D5FB613D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54BF2955-6FE6-446E-B6D9-E655D5FB613D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BF2955-6FE6-446E-B6D9-E655D5FB613D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BF2955-6FE6-446E-B6D9-E655D5FB613D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BF2955-6FE6-446E-B6D9-E655D5FB613D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5FF129D-8701-4A18-AAC1-2D29B3D0122B}
+	EndGlobalSection
+EndGlobal

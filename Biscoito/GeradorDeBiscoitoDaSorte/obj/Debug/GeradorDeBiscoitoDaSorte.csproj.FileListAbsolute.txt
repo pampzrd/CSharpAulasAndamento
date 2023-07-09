@@ -1,0 +1,11 @@
+C:\Users\Meu Computador\Documents\prog\CSharp\Biscoito\GeradorDeBiscoitoDaSorte\bin\Debug\GeradorDeBiscoitoDaSorte.exe.config
+C:\Users\Meu Computador\Documents\prog\CSharp\Biscoito\GeradorDeBiscoitoDaSorte\bin\Debug\GeradorDeBiscoitoDaSorte.exe
+C:\Users\Meu Computador\Documents\prog\CSharp\Biscoito\GeradorDeBiscoitoDaSorte\bin\Debug\GeradorDeBiscoitoDaSorte.pdb
+C:\Users\Meu Computador\Documents\prog\CSharp\Biscoito\GeradorDeBiscoitoDaSorte\obj\Debug\GeradorDeBiscoitoDaSorte.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\Biscoito\GeradorDeBiscoitoDaSorte\obj\Debug\GeradorDeBiscoitoDaSorte.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\Biscoito\GeradorDeBiscoitoDaSorte\obj\Debug\GeradorDeBiscoitoDaSorte.BiscoitoDaSorte.resources
+C:\Users\Meu Computador\Documents\prog\CSharp\Biscoito\GeradorDeBiscoitoDaSorte\obj\Debug\GeradorDeBiscoitoDaSorte.Properties.Resources.resources
+C:\Users\Meu Computador\Documents\prog\CSharp\Biscoito\GeradorDeBiscoitoDaSorte\obj\Debug\GeradorDeBiscoitoDaSorte.csproj.GenerateResource.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\Biscoito\GeradorDeBiscoitoDaSorte\obj\Debug\GeradorDeBiscoitoDaSorte.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\Biscoito\GeradorDeBiscoitoDaSorte\obj\Debug\GeradorDeBiscoitoDaSorte.exe
+C:\Users\Meu Computador\Documents\prog\CSharp\Biscoito\GeradorDeBiscoitoDaSorte\obj\Debug\GeradorDeBiscoitoDaSorte.pdb

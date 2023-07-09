@@ -1,0 +1,15 @@
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioEncaixaOuNao\DesafioEncaixaOuNao\bin\Debug\net6.0\DesafioEncaixaOuNao.exe
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioEncaixaOuNao\DesafioEncaixaOuNao\bin\Debug\net6.0\DesafioEncaixaOuNao.deps.json
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioEncaixaOuNao\DesafioEncaixaOuNao\bin\Debug\net6.0\DesafioEncaixaOuNao.runtimeconfig.json
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioEncaixaOuNao\DesafioEncaixaOuNao\bin\Debug\net6.0\DesafioEncaixaOuNao.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioEncaixaOuNao\DesafioEncaixaOuNao\bin\Debug\net6.0\DesafioEncaixaOuNao.pdb
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioEncaixaOuNao\DesafioEncaixaOuNao\obj\Debug\net6.0\DesafioEncaixaOuNao.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioEncaixaOuNao\DesafioEncaixaOuNao\obj\Debug\net6.0\DesafioEncaixaOuNao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioEncaixaOuNao\DesafioEncaixaOuNao\obj\Debug\net6.0\DesafioEncaixaOuNao.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioEncaixaOuNao\DesafioEncaixaOuNao\obj\Debug\net6.0\DesafioEncaixaOuNao.AssemblyInfo.cs
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioEncaixaOuNao\DesafioEncaixaOuNao\obj\Debug\net6.0\DesafioEncaixaOuNao.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioEncaixaOuNao\DesafioEncaixaOuNao\obj\Debug\net6.0\DesafioEncaixaOuNao.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioEncaixaOuNao\DesafioEncaixaOuNao\obj\Debug\net6.0\refint\DesafioEncaixaOuNao.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioEncaixaOuNao\DesafioEncaixaOuNao\obj\Debug\net6.0\DesafioEncaixaOuNao.pdb
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioEncaixaOuNao\DesafioEncaixaOuNao\obj\Debug\net6.0\DesafioEncaixaOuNao.genruntimeconfig.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioEncaixaOuNao\DesafioEncaixaOuNao\obj\Debug\net6.0\ref\DesafioEncaixaOuNao.dll

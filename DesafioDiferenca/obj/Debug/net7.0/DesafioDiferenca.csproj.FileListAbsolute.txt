@@ -1,0 +1,15 @@
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioDiferenca\bin\Debug\net7.0\DesafioDiferenca.exe
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioDiferenca\bin\Debug\net7.0\DesafioDiferenca.deps.json
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioDiferenca\bin\Debug\net7.0\DesafioDiferenca.runtimeconfig.json
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioDiferenca\bin\Debug\net7.0\DesafioDiferenca.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioDiferenca\bin\Debug\net7.0\DesafioDiferenca.pdb
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioDiferenca\obj\Debug\net7.0\DesafioDiferenca.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioDiferenca\obj\Debug\net7.0\DesafioDiferenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioDiferenca\obj\Debug\net7.0\DesafioDiferenca.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioDiferenca\obj\Debug\net7.0\DesafioDiferenca.AssemblyInfo.cs
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioDiferenca\obj\Debug\net7.0\DesafioDiferenca.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioDiferenca\obj\Debug\net7.0\DesafioDiferenca.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioDiferenca\obj\Debug\net7.0\refint\DesafioDiferenca.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioDiferenca\obj\Debug\net7.0\DesafioDiferenca.pdb
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioDiferenca\obj\Debug\net7.0\DesafioDiferenca.genruntimeconfig.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\DesafioDiferenca\obj\Debug\net7.0\ref\DesafioDiferenca.dll
